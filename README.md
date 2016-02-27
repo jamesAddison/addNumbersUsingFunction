@@ -1,4 +1,4 @@
-# addNumbersUsingFunction
+### addNumbersUsingFunction
 I'm a C++ beginner and I can't work out what's wrong with my code. I'm using Microsoft Visual Studio 2015 Community edition. Please feedback with advice on code changes. I've included the whole project file. This is my original code:
 
 \#include "stdafx.h"
